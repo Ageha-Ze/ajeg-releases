@@ -1,13 +1,13 @@
-# Ajeg — unduhan APK
+# YAOMI — unduhan APK
 
-Ajeg adalah aplikasi Android untuk menjaga amalan dan kegiatan harian:
+YAOMI (sebelumnya bernama Ajeg) adalah aplikasi Android untuk menjaga amalan dan kegiatan harian:
 checklist kebiasaan dan tugas, jadwal salat, hafalan Al-Qur'an, catatan uang,
 dan rekap capaian. Semua data tersimpan di HP.
 
 ## Unduh
 
 Buka halaman **[Releases](../../releases/latest)** lalu unduh
-`ajeg-<versi>-arm64.apk`. File ini cocok untuk hampir semua HP Android
+`yaomi-<versi>-arm64.apk`. File ini cocok untuk hampir semua HP Android
 keluaran beberapa tahun terakhir.
 
 ## Cara memasang
@@ -16,7 +16,7 @@ keluaran beberapa tahun terakhir.
 2. Kalau muncul peringatan, izinkan **Instal dari sumber ini** untuk
    browser atau pengelola file yang dipakai.
 3. Kalau Play Protect bertanya, pilih **Tetap instal**. Peringatan ini muncul
-   karena Ajeg belum didistribusikan lewat Play Store.
+   karena YAOMI belum didistribusikan lewat Play Store.
 
 ## Memperbarui
 
